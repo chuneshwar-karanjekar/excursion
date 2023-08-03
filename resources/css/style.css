@@ -1,0 +1,43 @@
+/* this Excursion Project style sheet design by chuneshwar karanjekar */
+
+/* this is for whole main page */
+*{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/* this is only for first h1 tag */
+.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+/* this is for our download link */
+.download{
+    color: aquamarine;
+    font-size: 20px;
+
+}
+
+/* this is for both h2 tags */
+#second-p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300px;
+    font-weight: normal;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+/* this is a footer of the page */
+.footer{
+    text-align: right;
+    color: gray;
+}
+
+
